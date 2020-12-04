@@ -1,0 +1,16 @@
+Suburb,Address,Rooms,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+Abbotsford,68 Studley St,2,,SS,Jellis,03-09-16,2.5,3067,2,1,1,126,,,Yarra City Council,-37.8014,144.9958,Northern Metropolitan,4019
+Abbotsford,85 Turner St,2,1480000,S,Biggin,03-12-16,2.5,3067,2,1,1,202,,,Yarra City Council,-37.7996,144.9984,Northern Metropolitan,4019
+Abbotsford,25 Bloomburg St,2,1035000,S,Biggin,04-02-16,2.5,3067,2,1,0,156,79,1900,Yarra City Council,-37.8079,144.9934,Northern Metropolitan,4019
+Abbotsford,18/659 Victoria St,3,,VB,Rounds,04-02-16,2.5,3067,3,2,1,0,,,Yarra City Council,-37.8114,145.0116,Northern Metropolitan,4019
+Abbotsford,5 Charles St,3,1465000,SP,Biggin,04-03-17,2.5,3067,3,2,0,134,150,1900,Yarra City Council,-37.8093,144.9944,Northern Metropolitan,4019
+Abbotsford,40 Federation La,3,850000,PI,Biggin,04-03-17,2.5,3067,3,2,1,94,,,Yarra City Council,-37.7969,144.9969,Northern Metropolitan,4019
+Abbotsford,55a Park St,4,1600000,VB,Nelson,04-06-16,2.5,3067,3,1,2,120,142,2014,Yarra City Council,-37.8072,144.9941,Northern Metropolitan,4019
+Abbotsford,16 Maugie St,4,,SN,Nelson,06-08-16,2.5,3067,3,2,2,400,220,2006,Yarra City Council,-37.7965,144.9965,Northern Metropolitan,4019
+Abbotsford,53 Turner St,2,,S,Biggin,06-08-16,2.5,3067,4,1,2,201,,1900,Yarra City Council,-37.7995,144.9974,Northern Metropolitan,4019
+Abbotsford,99 Turner St,2,,S,Collins,06-08-16,2.5,3067,3,2,1,202,,1900,Yarra City Council,-37.7996,144.9989,Northern Metropolitan,4019
+Abbotsford,129 Charles St,2,941000,S,Jellis,07-05-16,2.5,3067,2,1,0,181,,,Yarra City Council,-37.8041,144.9953,Northern Metropolitan,4019
+Abbotsford,124 Yarra St,3,1876000,S,Nelson,07-05-16,2.5,3067,4,2,0,245,210,1910,Yarra City Council,-37.8024,144.9993,Northern Metropolitan,4019
+Abbotsford,121/56 Nicholson St,2,,PI,Biggin,07-11-16,2.5,3067,2,2,1,4292,82,2009,Yarra City Council,-37.8078,144.9965,Northern Metropolitan,4019
+Abbotsford,17 Raphael St,4,,W,Biggin,07-11-16,2.5,3067,6,2,0,230,147,1860,Yarra City Council,-37.8066,144.9936,Northern Metropolitan,4019
+Abbotsford,98 Charles St,2,1636000,S,Nelson,08-10-16,2.5,3067,2,1,2,256,107,1890,Yarra City Council,-37.806,144.9954,Northern Metropolitan,4019
